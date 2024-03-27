@@ -2,7 +2,11 @@
 module.exports = {
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      color:{
+        'theme':'#1454c4'
+      }
+    },
   },
   variants: {
     extend: {},
