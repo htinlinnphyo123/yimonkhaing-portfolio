@@ -2,10 +2,13 @@
   <div id="home" class="min-h-screen flex justify-center items-center">
     <div class="absolute top-0 left-0 w-screen h-screen flex flex-col lg:flex-row justify-around items-center">
       <div class="flex justify-center items-center">
-        <img :src="image" class="w-80 h-80 rounded-full object-cover shadow-lg"/>
+        <img :src="image" class="w-60 h-60 lg:w-80 lg:h-80 rounded-full mt-24 lg:mt-0 object-cover shadow-lg"/>
       </div>
-      <div class="flex justify-center items-center">
-        <p class="text-2xl font-bold text-white">I am yi Mon Khine. <br/> I live in pyinmana </p>
+      <div class="flex justify-center items-center pb-12 lg:pb-0">
+        <p class="text-2xl font-bold text-white">Hello Everyone &#128519; <br/>
+          <span class="block my-4">I am Ma Yi Mon Khaing</span>
+          <span class="block">who is passionate in Hospitality</span>
+        </p>
       </div>
     </div>
   </div>

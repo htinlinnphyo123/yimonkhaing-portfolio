@@ -6,13 +6,18 @@
       <div>
           <HomePage/>
         
-        <div id="about" class="min-h-screen ">
-          <h1>About Me</h1>
+        <div id="about" class="">
+          <AboutPage/>
         </div>
 
-        <div id="achievement" class="min-h-screen ">
-          <h1>Career Details</h1>
+        <div id="achievement" class="">
+          <AchievementPage />
         </div>
+
+        <div id="contact">
+          <ContactPage />
+        </div>
+
       </div>
     </transition>
   </div>
@@ -23,9 +28,14 @@
   import { initFlowbite } from 'flowbite';
   import Navbar from '@/components/NavbarMenu.vue'
   import HomePage from "@/components/HomePage.vue";
+  import AboutPage from "@/components/AboutPage.vue";
+  import AchievementPage from "@/components/AchievementPage.vue";
+  import ContactPage from "@/components/ContactPage.vue";
 
   onMounted(()=>{
     initFlowbite();
+
+
   })
 
 
