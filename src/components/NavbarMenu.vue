@@ -5,7 +5,7 @@
           <h1 class="text-white text-xl font-bold">My Portfolio</h1>
         </div>
         <div class="w-full md:block md:w-auto" id="navbar-default">
-          <ul class="flex flex-row p-4 md:p-0 mt-4 rounded-lg bg-transparent space-x-4 md:space-x-8 lg:space-x-16 md:mt-0 md:border-0 text-white font-bold">
+          <ul class="flex flex-row p-4 md:p-0 mt-4 rounded-lg bg-transparent space-x-4 md:space-x-8 lg:space-x-16 md:mt-0 md:border-0 text-white font-bold mx-auto">
             <li>
               <a href="#home">Home</a>
             </li>
@@ -25,6 +25,6 @@
 </script>
 <style>
   nav{
-    background-color: #182685;
+    background-color: #01257D; /* For browsers that do not support gradients */
   }
 </style>
