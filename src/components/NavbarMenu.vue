@@ -25,6 +25,7 @@
 </script>
 <style>
   nav{
+    max-width: 100vw;
     background-color: #01257D; /* For browsers that do not support gradients */
   }
 </style>
