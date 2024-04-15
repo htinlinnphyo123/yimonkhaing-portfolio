@@ -1,0 +1,3 @@
+<template>
+  Achievement Details
+</template>
