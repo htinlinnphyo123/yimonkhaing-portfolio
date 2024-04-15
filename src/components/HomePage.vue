@@ -14,6 +14,9 @@
   </div>
 </template>
 <style>
+#home{
+  max-width: 100vw;
+}
 #img-wrapper{
   position: relative;
   animation: show 2s ease-out;
