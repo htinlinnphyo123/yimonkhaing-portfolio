@@ -8,7 +8,7 @@
       <i class="fa-solid fa-quote-right" style="font-size:16px;"></i>
     </sup>
   </h1>
-  <div class="lg:grid lg:grid-cols-2 px-4 md:px-10 lg:px-16  mb-20">
+  <div class="lg:grid lg:grid-cols-2 px-4 md:px-10 lg:px-16  mb-20  max-w-screen overflow-x-hidden">
     <div class="flex justify-center items-center lg:tracking-wide lg:leading-10 mb-8 lg:mb-0 about">
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     </div>
