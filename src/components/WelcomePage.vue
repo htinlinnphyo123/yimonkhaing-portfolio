@@ -6,7 +6,6 @@
 
       <AchievementPage />
 
-
     <div id="contact">
       <ContactPage />
     </div>

@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import WelcomePage from "@/components/WelcomePage.vue";
 import AchievementPage from "@/components/AchievementDetail.vue";
+import SkillRelated from "@/components/SkillRelated.vue";
+import VolunteeringDetail from "@/components/VolunteeringDetail.vue";
 
 const routes = [
   {
@@ -11,6 +13,14 @@ const routes = [
   {
     path: '/achievements',
     component:AchievementPage
+  },
+  {
+    path: '/skill-related',
+    component:SkillRelated
+  },
+  {
+    path: '/volunteering-experiences',
+    component: VolunteeringDetail
   }
 ]
 

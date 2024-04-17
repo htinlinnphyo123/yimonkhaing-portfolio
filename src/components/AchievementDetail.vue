@@ -62,7 +62,7 @@ import {onMounted} from "vue";
 
 onMounted(()=>{
   initFlowbite();
-
+  window.scrollTo(0, 0)
 })
 
 </script>
