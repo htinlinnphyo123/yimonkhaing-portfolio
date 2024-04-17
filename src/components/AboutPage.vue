@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-center font-bold text-2xl lg:text-4xl py-10 lg:py-16 font-serif">
+  <h1 id="about" class="text-center font-bold text-2xl lg:text-4xl py-10 lg:py-16 font-serif">
     <sup>
       <i class="fa-solid fa-quote-left" style="font-size:16px;"></i>
     </sup>
@@ -34,12 +34,14 @@ import {onMounted} from "vue";
 
 onMounted(()=>{
   window.addEventListener('scroll',function(){
-    if(window.scrollY>300 && window.scrollY<1500){
-      document.querySelector('.about').classList.add("active");
-      document.querySelector('.hobby').classList.add('active');
-    }else{
-      document.querySelector('.about').classList.remove("active");
-      document.querySelector('.hobby').classList.remove('active');
+    if(document.querySelector('.hobby')!==null && document.querySelector('.about')!==null){
+      if(window.scrollY>300 && window.scrollY<1500){
+        document.querySelector('.about').classList.add("active");
+        document.querySelector('.hobby').classList.add('active');
+      }else{
+        document.querySelector('.about').classList.remove("active");
+        document.querySelector('.hobby').classList.remove('active');
+      }
     }
   })
 

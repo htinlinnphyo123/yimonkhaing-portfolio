@@ -2,13 +2,10 @@
   <NavbarMenu />
   <div>
     <HomePage/>
-    <div id="about" class="">
       <AboutPage/>
-    </div>
 
-    <div id="achievement" class="">
       <AchievementPage />
-    </div>
+
 
     <div id="contact">
       <ContactPage />
