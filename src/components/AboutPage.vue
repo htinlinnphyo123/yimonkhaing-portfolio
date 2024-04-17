@@ -10,7 +10,7 @@
   </h1>
   <div class="lg:grid lg:grid-cols-2 px-4 md:px-10 lg:px-16  mb-20  max-w-screen overflow-x-hidden">
     <div class="flex justify-center items-center lg:tracking-wide lg:leading-10 mb-8 lg:mb-0 about">
-      Since childhood, I've harbored a fervent dream of studying management. During the difficulties of Covid-19 and the Myanmar coup, I had to explore new paths for my future education and discovered my passion for hospitality. With my father's unwavering support and shared aspirations, I confidently selected Bangkok University for its inviting campus, modern facilities, and promising post-graduation opportunities. Excited to dive into the lively BU community, I'm ready to begin my journey in hospitality management with enthusiasm.
+      Since my childhood, I've harbored a fervent dream of studying management. During the difficulties of Covid-19 and the Myanmar coup, I had to explore new paths for my future education and discovered my passion for hospitality. With my father's unwavering support and shared aspirations, I confidently selected Bangkok University for its inviting campus, modern facilities, and promising post-graduation opportunities. Excited to dive into the lively BU community, I'm ready to begin my journey in hospitality management with enthusiasm.
     </div>
     <div class="hobby lg:px-10">
       <div class="my-4 lg:my-6 ps-4 border-l-4 border-blue-600">
