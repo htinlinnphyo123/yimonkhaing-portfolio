@@ -1,11 +1,11 @@
 <template>
   <h1 id="about" class="text-center font-bold text-2xl lg:text-4xl py-10 lg:py-16 font-serif">
     <sup>
-      <i class="fa-solid fa-quote-left" style="font-size:16px;"></i>
+        <i class="fa-solid fa-quote-left" style="font-size:16px;"></i>
     </sup>
     About Me
     <sup>
-      <i class="fa-solid fa-quote-right" style="font-size:16px;"></i>
+        <i class="fa-solid fa-quote-right" style="font-size:16px;"></i>
     </sup>
   </h1>
   <div class="lg:grid lg:grid-cols-2 px-4 md:px-10 lg:px-16  mb-20  max-w-screen overflow-x-hidden">

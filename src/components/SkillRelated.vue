@@ -6,7 +6,7 @@
   <div class="mx-auto mb-4 lg:mb-10 text-xl">
     <h3 class="mb-3 font-bold">Coursera</h3>
     <p class="italic font-bold text-gray-400 mb-2">
-      In March 2024, I successfully completed the Management Foundation in the Hospitality Industry program at the University of North Texas. <br/> Throughout the course, I gained comprehensive knowledge of hotel management strategies, staff rights, and the function of Human Resources within the hospitality sector.
+      In March 2024, I successfully completed the Management Foundation in the Hospitality Industry program from the University of North Texas. <br/> Throughout the course, I gained comprehensive knowledge of hotel management strategies, staff rights, and the function of Human Resources within the hospitality sector.
     </p>
     <img :src="Coursera" class="sm:w-1/2 lg:w-1/3 block px-4 mx-auto" />
   </div>
